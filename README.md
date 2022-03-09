@@ -2,7 +2,7 @@
 
 ## Project's Description:
 
-This project aims to Analyse Arabic Poetry using NLP and apply different Mechain learning algorithms for both Supervised and Unsupervised Learning, to help answer the following questions:
+This project aims to Analyse Arabic Poetry using NLP and apply different Machine learning algorithms for both Supervised and Unsupervised Learning, to help answer the following questions:
 
 - How to classify poems based on labels.
 - How to predict labels based on Topic Modeling.
@@ -23,12 +23,12 @@ This project aims to Analyse Arabic Poetry using NLP and apply different Mechain
 ### Data Source:
    - Web Scraping AlDiwan for Arabic Poetry Webstibe: https://www.aldiwan.net/
 
-###  Mechain learning algorithms:
+###  Machine learning algorithms:
 - Supervised Learning: Multi-class Classification.
 - Unsupervised Learning: Topic Modeling.
 
 ## Conclusion:
-- Even though we preform different Mechain learning algorithms we end up with underfitting due the small dataset we had, therefore; as a part of our future work we are planning to expand the dataset and try even more NLP and Mechain learning algorithms to get better results.
+- Even though we preform different Machine learning algorithms we end up with underfitting due the small dataset we had, therefore; as a part of our future work we are planning to expand the dataset and try even more NLP and Mechain learning algorithms to get better results.
 
 ## References:
 
