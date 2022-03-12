@@ -4,8 +4,8 @@
 
 This project aims to analyze Arabic Poetry using NLP and apply different Machine learning algorithms for both Supervised and Unsupervised Learning, to help answer the following questions:
 
-- How to classify poems based on labels.
-- How to predict labels based on Topic Modeling.
+- Can I classify poems based on labels.
+- Can I predict labels based on Topic Modeling.
 
 ## Dataset:
 
